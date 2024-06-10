@@ -89,7 +89,7 @@ while True:
                         print("Insufficient balance!!!")
                     break  
                 elif verify.lower() == 'n':
-                    print("Transaction canceled. Please re-enter receiver details.")
+                    print("Transaction canceled!!! Please re-enter receiver details.")
                 else:
                     print("Invalid input. Please enter 'Y' or 'N'.")
         elif option == 5:
